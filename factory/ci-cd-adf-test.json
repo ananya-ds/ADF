@@ -1,0 +1,9 @@
+{
+	"name": "ci-cd-adf-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56df133b-448c-41ae-83a9-582f95db9995",
+		"tenantId": "21601dfc-a165-4c66-ba9c-727a4fdff644"
+	}
+}

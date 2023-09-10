@@ -1,0 +1,16 @@
+{
+	"name": "DS_testsqldb",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_testsqldb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
