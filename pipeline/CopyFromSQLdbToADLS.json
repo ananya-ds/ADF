@@ -29,7 +29,7 @@
 				}
 			},
 			{
-				"name": "IterativelyCopy Tables",
+				"name": "Iteratively Copy Tables",
 				"type": "ForEach",
 				"dependsOn": [
 					{
