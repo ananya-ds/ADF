@@ -2,7 +2,7 @@
 	"name": "DS_testsqldb",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "LS_testsqldb",
+			"referenceName": "LS_SQLDatabase",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
